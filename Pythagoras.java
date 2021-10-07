@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package Geometrierechner;
 
+import java.util.Scanner;
 
 public class Pythagoras {
 
@@ -78,7 +79,7 @@ public class Pythagoras {
                 
               }
             }
-          }
         }
+      }     
     
 
